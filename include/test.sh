@@ -12,3 +12,6 @@ for n in 0 1; do
 	echo "# ${f}"
 	dogpp "${f}"
 done
+
+echo "# html"
+dogpp "test_html.pp"

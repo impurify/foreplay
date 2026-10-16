@@ -10,6 +10,8 @@ What is Foreplay?  It’s what comes before Intercourse.  Indeed, Foreplay *lead
 
 This is the static site system I’m using until I write my own CMS.  I guess that Foreplay probably won’t be useful to anyone else; there’s no documentation, and much of the existing project depends on the assumption that I’ll be the only one who ever wants to use it.  If that assumption is incorrect, please feel free to email me; I’d be happy to try to make it useful to others.
 
+Oh, yes:  My naming pattern is a Culture War stance.  I’ve been intending to write a proper essay explaining this.  Improving my Web publishing system will help me to do so.
+
 ## MVP Feature Set of Intercourse
 
 Foreplay includes the checked features.

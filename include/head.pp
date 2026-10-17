@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html>
 <head>
 <meta charset="utf-8" />
 
@@ -16,3 +14,5 @@ $endif--$<!-- ifdef subtitle -->
 */>$endif--$<!-- ifdef title -->
 <#endif></* ifdef SITE_TITLE_POST
 */></title>
+
+</head>
